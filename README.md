@@ -16,16 +16,19 @@ Then I created a function which will be called after taking the input of the use
 **Storing the Url** 
 
 In the function I created a string which would be storing the url of the site. Here I used a f string which I used because I want to embed the username and repo name in that url
+
 **url = f"https://api.github.com/repos/{username}/{repo}"**
 
 **Creating the Headers**
 
 Then I created a dictionary which would be storing the header which act as a additional piece of information for the server like **Accept** it used to specify the content that the user is expecting from the server.
+
 **headers = {"Accept": "application/vnd.github.v3+json"}**
 
 **Making the API request**
 
 So I searched over the internet to know how to make the API request from there I got to know about **requests.get(url,headers)** . Here the url is basically that url to which i have to send the request and use of headers is already mentioned above . PS : the headers is key-value pair.
+
 **response = requests.get(url,headers=headers)**
 
 **After Making the Request** 
