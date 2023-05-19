@@ -1,8 +1,8 @@
-import requests 
+ import requests 
 
-#this is a python library which is used to held http requests
+ #this is a python library which is used to held http requests
 
-def get_repo_metadata(username,repo) : 
+ def get_repo_metadata(username,repo) : 
 
     #creates a function which is taking username of github accound and repository name from the user as input
 
@@ -62,14 +62,14 @@ def get_repo_metadata(username,repo) :
         
 
 
-#asking the user for input
+ #asking the user for input
 
-username = input("Enter the GITHUB username : ")
-repo = input("Enter the repository name: ")
+ username = input("Enter the GITHUB username : ")
+ repo = input("Enter the repository name: ")
 
 
-#calling the function
+ #calling the function
 
-get_repo_metadata(username,repo)
+ get_repo_metadata(username,repo)
 
 
