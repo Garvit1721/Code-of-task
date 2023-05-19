@@ -44,6 +44,7 @@ If the request is not sent successfully then it will print the error message
 After making a succefull request I stored the data from the server in string in json format and for accessing the meta data I read commands from github api documentation . 
 The commands are as follows : 
 
+
 ![Screenshot 2023-05-19 190517](https://github.com/Garvit1721/Code-of-task/assets/128980420/71664ac7-79a9-4211-94ce-70a9ff595fc3)
 
 **<ins>ADDITIONAL LEARNING</ins>**
