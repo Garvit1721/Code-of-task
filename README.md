@@ -49,7 +49,7 @@ The commands are as follows :
 
 **<ins>ADDITIONAL LEARNING</ins>**
 
-Apart from the learning of the requests library and some features of this library , I also learned about git and github as i don't know about it so i have to learn about them from scratch.
+Apart from the learning of the requests library and some features of this library , I also learned about git and github as I don't know about it so I have to learn about them from scratch.
 
 
 
