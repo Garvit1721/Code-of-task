@@ -1,5 +1,5 @@
 # DISCLAIMER
-First of all I am not that much habitual of coding in python like I had IP in my class 12th but i didnt took it that seriously so I just know the basic of python programing but I am practicing to code in c++ and c and I have plan to learn python and datascience in depth duriny my summer vaccation
+First of all I am not that much habitual of coding in python like I had IP in my class 12th but i didnt took it that seriously so I just know the basic of python programing but I am practicing to code in c++ and c and I have plan to learn python and data science in depth duriny my summer vaccation
 
 # LEARNING 
 **<ins>Making HTTP Request</ins>**
