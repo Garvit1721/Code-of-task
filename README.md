@@ -34,8 +34,8 @@ So I searched over the internet to know how to make the API request from there I
 **<ins>After Making the Request</ins>** 
 
 So After making the request there arise two cases :
-1) request is sent successfully : status_code == 200
-2) request is not sent successfully 
+1) Request is sent successfully : status_code == 200
+2) Request is not sent successfully 
 If the request is sent successfully then it will access the metadata
 If the request is not sent successfully then it will print the error message
 
