@@ -48,6 +48,12 @@ The commands are as follows :
 
 Apart from the learning of the requests library and some features of this library , I also learned about git and github as I don't know about it so I have to learn about them from scratch.
 
+**<ins>CODE OUTPUT</ins>**
+  I have you the github username of one of core team memeber of KOSS named Sahil Shubham to demonstrate the putput of the code
+  
+![Screenshot 2023-05-21 222648](https://github.com/Garvit1721/Code-of-task/assets/128980420/84f02150-1f51-4753-bf34-aeb943d05cfc)           ![Screenshot 2023-05-21 222716](https://github.com/Garvit1721/Code-of-task/assets/128980420/24540c49-c8c6-4931-ad5e-e5248a308cf0)
+
+  ![Screenshot 2023-05-21 222729](https://github.com/Garvit1721/Code-of-task/assets/128980420/b60ad30a-e41e-44d5-a20b-16fa062caf3b)
 
 
 
